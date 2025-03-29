@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on several projects such as substantial websites that would help boost an organization's impact.
 - 📫 You can reach me through my gmail account: iamfazileijett@gmail.com or my Microsoft account: mangulabnanfm@students.nu-laguna.edu.ph
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a Swiftie!!
+
 
 <!---
 iamfazilei/iamfazilei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
